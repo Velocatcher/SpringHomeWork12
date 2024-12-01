@@ -1,0 +1,1 @@
+Note(id=null, title=Купить сосиски, contents=В магазине, creationDate=null)
